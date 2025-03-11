@@ -54,11 +54,7 @@ If you have any questions, feedback, or inquiries about the project, feel free t
 - **LinkedIn**: [Mayur Patel](https://www.linkedin.com/in/mayur-patel-9a8619208)
 
 
-### Reach Out 💬
 
-I’d love to hear from you! Whether it's about the project or general feedback, don’t hesitate to get in touch.
-
----
 
 
 
