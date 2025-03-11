@@ -50,7 +50,7 @@ The goal is to analyze supermarket sales performance by identifying trends in sa
 
 
 
-• Dashboard Interaction <a href = "https://github.com/AnjaliPrakashan/Data-Analysis-Supermarket-Dashboard/blob/main/SupermarketSales_Dashboard.png"> View Dashboard</a>
+• Dashboard Interaction <a href = "https://github.com/Mayur061099/Data-Analysis-Supermarket-Dashboard/blob/main/Sales_Mayur.png"> View Dashboard</a>
 
 
 
@@ -66,7 +66,8 @@ The goal is to analyze supermarket sales performance by identifying trends in sa
 
 
 ##Dashboard
-
+**![Sales_Mayur](https://github.com/user-attachments/assets/953836ba-206b-455a-8ce2-4da53ae3ebc2)
+**
 
 
 ##Insights
