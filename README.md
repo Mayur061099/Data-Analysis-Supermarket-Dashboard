@@ -44,6 +44,21 @@ You can view the **[Dashboard Interaction](https://github.com/Mayur061099/Data-A
 
 The dashboard highlights key revenue trends, with direct sales and top categories leading. These insights help businesses optimize inventory, pricing, and payment strategies for better profitability. 📊💡
 
+# Contact 📬
+
+If you have any questions, feedback, or inquiries about the project, feel free to reach out to me!
+
+### Contact Information 📞
+
+- **Email**: [mayupatel0610@gmail.com](mailto:mayupatel0610@gmail.com)
+- **LinkedIn**: [Mayur Patel](https://www.linkedin.com/in/mayur-patel-9a8619208)
+
+
+### Reach Out 💬
+
+I’d love to hear from you! Whether it's about the project or general feedback, don’t hesitate to get in touch.
+
+---
 
 
 
